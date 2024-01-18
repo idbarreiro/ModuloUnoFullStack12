@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(142, 246, 212);
+}
+
+header{
+    display: flex;   
+}
+
+.items{
+    margin: 10px;
+}
+
+.menus{
+    display: flex;
+    flex-direction:row;
+}
